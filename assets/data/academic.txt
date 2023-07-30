@@ -1,0 +1,9 @@
+title:  project_manager
+name:   Gamze Özel Kadılar
+image:  gamze_ozel.png
+mail:   mail...
+
+title:  example_title
+name:   Xxx Xxx Xxx
+image:  example.png
+mail:   xxx.com
